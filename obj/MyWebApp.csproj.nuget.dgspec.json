@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egeoz\\MyWebApp\\MyWebApp.csproj": {}
+    "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egeoz\\MyWebApp\\MyWebApp.csproj": {
+    "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egeoz\\MyWebApp\\MyWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\egeoz\\MyWebApp\\MyWebApp.csproj",
+        "projectPath": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj",
         "packagesPath": "C:\\Users\\egeoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egeoz\\MyWebApp\\obj\\",
+        "outputPath": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\egeoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
