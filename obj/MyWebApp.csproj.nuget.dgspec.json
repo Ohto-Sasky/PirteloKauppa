@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj": {}
+    "C:\\Koulu\\Ohjelmistokehittäjä\\Repot\\PirteloKauppa\\MyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj": {
+    "C:\\Koulu\\Ohjelmistokehittäjä\\Repot\\PirteloKauppa\\MyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj",
+        "projectUniqueName": "C:\\Koulu\\Ohjelmistokehittäjä\\Repot\\PirteloKauppa\\MyWebApp.csproj",
         "projectName": "MyWebApp",
-        "projectPath": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj",
-        "packagesPath": "C:\\Users\\egeoz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\obj\\",
+        "projectPath": "C:\\Koulu\\Ohjelmistokehittäjä\\Repot\\PirteloKauppa\\MyWebApp.csproj",
+        "packagesPath": "C:\\Users\\Sofia\\.nuget\\packages\\",
+        "outputPath": "C:\\Koulu\\Ohjelmistokehittäjä\\Repot\\PirteloKauppa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\egeoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sofia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
