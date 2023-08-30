@@ -1,12 +1,19 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace PirteloKauppa.Pages
+namespace PirteloKauppa.Pages.Cart;
+
+public class MenuModel : PageModel
 {
-    public class MenuModel : PageModel
+    private readonly ILogger<MenuModel> _logger;
+
+    public MenuModel(ILogger<MenuModel> logger)
     {
-        public void OnGet()
-        {
-        }
+        _logger = logger;
+    }
+
+    public void OnGet()
+    {
+
     }
 }
