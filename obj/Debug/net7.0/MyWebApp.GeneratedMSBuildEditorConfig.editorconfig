@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\egeoz\OneDrive\Työpöytä\Yatzy\PirteloKauppa
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/egeoz/OneDrive/Työpöytä/Yatzy/PirteloKauppa/Pages/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/egeoz/OneDrive/Työpöytä/Yatzy/PirteloKauppa/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/egeoz/OneDrive/Työpöytä/Yatzy/PirteloKauppa/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/egeoz/OneDrive/Työpöytä/Yatzy/PirteloKauppa/Pages/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVudS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Users/egeoz/OneDrive/Työpöytä/Yatzy/PirteloKauppa/Pages/Privacy.cshtml]
