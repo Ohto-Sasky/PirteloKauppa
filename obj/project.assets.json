@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\egeoz\\.nuget\\packages\\": {}
+    "C:\\Users\\Tivi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj",
+      "projectUniqueName": "c:\\Users\\Tivi\\Documents\\GitHub\\PirteloKauppa\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\MyWebApp.csproj",
-      "packagesPath": "C:\\Users\\egeoz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\egeoz\\OneDrive\\Työpöytä\\Yatzy\\PirteloKauppa\\obj\\",
+      "projectPath": "c:\\Users\\Tivi\\Documents\\GitHub\\PirteloKauppa\\MyWebApp.csproj",
+      "packagesPath": "C:\\Users\\Tivi\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Tivi\\Documents\\GitHub\\PirteloKauppa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\egeoz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tivi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
