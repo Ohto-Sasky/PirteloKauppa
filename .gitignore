@@ -496,3 +496,6 @@ obj/Debug/net7.0/MyWebApp.assets.cache
 bin/Debug/net7.0/MyWebApp.staticwebassets.runtime.json
 bin/Debug/net7.0/MyWebApp.pdb
 bin/Debug/net7.0/MyWebApp.dll
+obj/Debug/net7.0/MyWebApp.assets.cache
+obj/Debug/net7.0/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/project.razor.vscode.json
