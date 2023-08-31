@@ -476,3 +476,23 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 *.dll
+obj/project.nuget.cache
+obj/project.assets.json
+obj/MyWebApp.csproj.nuget.g.props
+obj/MyWebApp.csproj.nuget.dgspec.json
+obj/Debug/net7.0/staticwebassets.pack.json
+obj/Debug/net7.0/staticwebassets.development.json
+obj/Debug/net7.0/staticwebassets.build.json
+obj/Debug/net7.0/refint/MyWebApp.dll
+obj/Debug/net7.0/ref/MyWebApp.dll
+obj/Debug/net7.0/project.razor.vscode.json
+obj/Debug/net7.0/MyWebApp.pdb
+obj/Debug/net7.0/MyWebApp.genruntimeconfig.cache
+obj/Debug/net7.0/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/MyWebApp.dll
+obj/Debug/net7.0/MyWebApp.csproj.FileListAbsolute.txt
+obj/Debug/net7.0/MyWebApp.csproj.CoreCompileInputs.cache
+obj/Debug/net7.0/MyWebApp.assets.cache
+bin/Debug/net7.0/MyWebApp.staticwebassets.runtime.json
+bin/Debug/net7.0/MyWebApp.pdb
+bin/Debug/net7.0/MyWebApp.dll
